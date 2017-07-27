@@ -1,7 +1,7 @@
 (function(){
 	let play = document.getElementById("play");
 	play.innerHTML = `
-<h2>Your browser doesn't support ES6 Modules (yet) &#1F632;</h2>
+<h2>Your browser doesn't support ES6 Modules (yet) 😵</h2>
 <p>That's ok, ES6 Modules are *landing soon* to a browser near you</p>
 <p>Already availabe in Safari since 10.1, you'll find ES6 Modules support in the following browsers using flags:</p>
 <ul>
