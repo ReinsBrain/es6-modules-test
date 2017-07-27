@@ -1,8 +1,8 @@
 'use strict';
 
-import submodule from './submodule.js';
+import submod from './submod.js';
 
-let submod = new submodule("bar");
-submod.foo();
+let sm = new submod("bar");
+sm.foo();
 
 export default main;
