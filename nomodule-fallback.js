@@ -8,5 +8,7 @@
 <li>Edge 15,16 <a href="about://flags>about:flags</a></li>
 <li>Firefox 54,55,56,57 <a href="about://config>about:config</a></li>
 <li>Chrome 60 <a href="chrome://flags>chrome:flags</a> (enable 'Experimental Web Platform features')</li>
+</ul>
+<p>Check current status here: <a href="http://caniuse.com/#search=modules">http://caniuse.com/#search=modules</a></p>
 `
 }());
