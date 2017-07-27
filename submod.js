@@ -3,7 +3,7 @@
 class submod {
 	constructor(p) {
 		this.p = p;
-		this.play = this.document.getElementByID("play");
+		this.play = document.getElementById("play");
 	}
 	foo() {
 		this.play.innerHTML = `<div>${this.p}</div>`
